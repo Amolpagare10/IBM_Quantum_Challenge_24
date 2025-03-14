@@ -27,11 +27,10 @@ The problems in this repository explore:
 ## ✅ Solutions
 
 This repository contains **Jupyter Notebooks** solving various challenge problems, complete with explanations and circuit visualizations.
-
-| Notebook                                   | Description                                |
-|--------------------------------------------|--------------------------------------------|
-| `lab_0.ipynb`                          | Basics of qubits, superposition, and measurement |
-| `lab_1.ipynb`                    | Introduction to Qiskit 1.0            |
-| `lab_2.ipynb`    | The Transpiler   |
-| `lab_3.ipynb`              | AI Transpiler |
-| `lab_4.ipynb`              | Testing a Variational Quantum Classifier on a real backend |
+| Notebook             | Description                                                                |
+|---------------------|----------------------------------------------------------------------------|
+| `lab_0.ipynb`        | Basics of qubits, quantum states, superposition, and quantum measurement.  |
+| `lab_1.ipynb`        | Introduction to **Qiskit 1.0**, exploring new features and basic operations.|
+| `lab_2.ipynb`        | Understanding and working with **Qiskit's Transpiler** for circuit optimization. |
+| `lab_3.ipynb`        | Exploring the **AI-based Transpiler**, using AI to optimize quantum circuits. |
+| `lab_4.ipynb`        | **Testing a Variational Quantum Classifier (VQC)** on real IBM Quantum backend. |
