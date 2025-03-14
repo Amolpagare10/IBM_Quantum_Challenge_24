@@ -1,10 +1,5 @@
 # IBM Quantum Challenge 2024 🚀
 
-![GitHub stars](https://img.shields.io/github/stars/Amolpagare10/IBM_Quantum_Challenge_24?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Amolpagare10/IBM_Quantum_Challenge_24?style=social)
-![GitHub license](https://img.shields.io/github/license/Amolpagare10/IBM_Quantum_Challenge_24)
-![Last updated](https://img.shields.io/github/last-commit/Amolpagare10/IBM_Quantum_Challenge_24)
-
 Welcome to the **IBM Quantum Challenge 2024** repository!  
 This repository contains solutions to various quantum computing problems as part of IBM's annual challenge, focused on understanding and applying **quantum algorithms**, **superposition**, **entanglement**, and **quantum circuits** using **Qiskit**.
 
