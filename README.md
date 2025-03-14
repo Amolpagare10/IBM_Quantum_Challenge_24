@@ -3,14 +3,12 @@
 Welcome to the **IBM Quantum Challenge 2024** repository!  
 This repository contains solutions to various quantum computing problems as part of IBM's annual challenge, focused on understanding and applying **quantum algorithms**, **superposition**, **entanglement**, and **quantum circuits** using **Qiskit**.
 
----
 
 ## 📚 Table of Contents
 
 - [About the Challenge](#-about-the-challenge)
 - [Solutions](#-solutions)
 
----
 
 ## 🌐 About the Challenge
 
@@ -25,7 +23,6 @@ Through a series of progressively challenging labs, participants explore essenti
 - **AI-Powered Circuit Optimization**: Leveraging AI in the **AI Transpiler** to enhance circuit execution.
 - **Quantum Machine Learning**: Implementing and testing a **Variational Quantum Classifier (VQC)** on actual IBM Quantum hardware.
 
----
 
 ## ✅ Solutions
 
